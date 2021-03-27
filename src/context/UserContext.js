@@ -1,8 +1,7 @@
 import React from 'react';
 
-
-
 export const UserServices = React.useContext({
-    subscriptions: [],
-    interested_subscriptions: []
+    current_subscriptions: [],
+    interested_subscriptions: [],
+    
 });

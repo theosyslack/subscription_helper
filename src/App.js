@@ -1,13 +1,18 @@
 import './App.css';
-import Service from './Service/Service';
-import { HULU, NETFLIX } from './consts/SERVICES';
+import Service from './Components/Service/Service';
+import AddService from './Components/AddService/AddService';
+import SubscriptionContainer from './Components/SubscriptionContainer/SubscriptionContainer';
+import { HULU, NETFLIX, PARAMOUNT_PLUS, DISNEY_PLUS } from './consts/SERVICES';
+import { useContext } from 'react';
+import { SubscriptionsContext } from './context/SubscriptionsContext';
+
+
 
 function App() {
   return (
     <div className="App">
       <div className="App__grid">
-        <Service service={NETFLIX}/>
-        <Service service={HULU}/>
+        <SubscriptionContainer />
       </div>
     </div>
   );

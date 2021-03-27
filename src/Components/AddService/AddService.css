@@ -1,0 +1,22 @@
+.AddService {
+    will-change: background-color;
+    transition: background-color 200ms ease-in-out;
+
+    background-color: rgba(0, 0, 0, .1);
+    color: black;
+    border-radius: 7px;
+    padding: 1em;
+    font-size: 1.5em;
+}
+
+.AddService__form {
+
+    display: grid;
+    grid: 1fr / 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.AddService__input {
+    height: 2em;
+    text-align: left;
+}
