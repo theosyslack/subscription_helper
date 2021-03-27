@@ -1,0 +1,49 @@
+.Service {
+    will-change: background-color;
+    transition: background-color 200ms ease-in-out;
+
+    background-color: rgba(0, 0, 0, .1);
+    color: white;
+    border-radius: 7px;
+    padding: .25em;
+    text-align: left;
+    line-height: 1;
+    vertical-align: baseline;
+
+    display: grid;
+    grid: 1fr / 1fr 2fr 4fr;
+    gap: 20px;
+    padding: 1em;
+}
+
+.Service__logo {
+    background: rgba(255, 255, 255, .8);
+    border-radius: 7px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Service__logo img{
+    max-height: 40px;
+    width: 100%;
+}
+
+.Service__name {
+    font-size: 2.25em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.Service__payByDate {
+    font-size: 2.25em;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.Service__logo {
+}
