@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/subscription_helper/static/css/main.c49de46c.chunk.css",
+    "main.js": "/subscription_helper/static/js/main.d5117a17.chunk.js",
+    "main.js.map": "/subscription_helper/static/js/main.d5117a17.chunk.js.map",
+    "runtime-main.js": "/subscription_helper/static/js/runtime-main.70341c81.js",
+    "runtime-main.js.map": "/subscription_helper/static/js/runtime-main.70341c81.js.map",
+    "static/js/2.ca74d637.chunk.js": "/subscription_helper/static/js/2.ca74d637.chunk.js",
+    "static/js/2.ca74d637.chunk.js.map": "/subscription_helper/static/js/2.ca74d637.chunk.js.map",
+    "static/js/3.801a583d.chunk.js": "/subscription_helper/static/js/3.801a583d.chunk.js",
+    "static/js/3.801a583d.chunk.js.map": "/subscription_helper/static/js/3.801a583d.chunk.js.map",
+    "index.html": "/subscription_helper/index.html",
+    "static/css/main.c49de46c.chunk.css.map": "/subscription_helper/static/css/main.c49de46c.chunk.css.map",
+    "static/js/2.ca74d637.chunk.js.LICENSE.txt": "/subscription_helper/static/js/2.ca74d637.chunk.js.LICENSE.txt",
+    "static/media/DisneyPlusLogo.e1eabf98.svg": "/subscription_helper/static/media/DisneyPlusLogo.e1eabf98.svg",
+    "static/media/HuluLogo.2eac1b61.svg": "/subscription_helper/static/media/HuluLogo.2eac1b61.svg",
+    "static/media/NetflixLogo.cd8d4fcd.svg": "/subscription_helper/static/media/NetflixLogo.cd8d4fcd.svg",
+    "static/media/ParamountPlusLogo.57d56edd.svg": "/subscription_helper/static/media/ParamountPlusLogo.57d56edd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70341c81.js",
+    "static/js/2.ca74d637.chunk.js",
+    "static/css/main.c49de46c.chunk.css",
+    "static/js/main.d5117a17.chunk.js"
+  ]
+}
